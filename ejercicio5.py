@@ -1,5 +1,5 @@
 """
-Programa que convierta un valor dado en grados farenheit
+Programa que convierta un valor dado en grados fahrenheit
 a grados celsius
 Entrada:
   grados Fahrenheit: int
