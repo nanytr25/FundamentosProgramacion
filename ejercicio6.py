@@ -14,5 +14,5 @@ num2 = input("Ingresa el segundo numero: ")
 num2 = int(num1)
 num3 = input("Ingresa el tercer numero: ")
 num3 = int(num1)
-media = num1 + num2 + num3 /3
+media = (num1 + num2 + num3) /3
 print("La media es: ", media)
